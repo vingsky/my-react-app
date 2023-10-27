@@ -1,4 +1,4 @@
-import { HashRouter, Routes, Route } from "react-router-dom";
+import { Routes, Route } from "react-router-dom";
 import PageA from "./PageA";
 import PageB from "./PageB";
 import PageC from "./PageC";
